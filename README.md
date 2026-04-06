@@ -51,100 +51,124 @@
 Welcome to my GitHub Page. I am Bajirao Shinde and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/imbaji17">Bajirao Shinde</a> that shares everything I learn about programming.
 </p>
 
-## 🛠️ My Favorite Tools & Technologies
+## 🛠️ Technical Skills
 
-> Tools and technologies I work with to build scalable Android applications
+> Technologies and tools I use to build scalable, production-grade Android applications
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48"/>
-      <br>Kotlin
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48"/>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48"/>
-      <br>Android Studio
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48"/>
-      <br>Gradle
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/>
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/>
-      <br>GitHub
-    </td>
-  </tr>
 
-  <tr>
-    <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-      <br>Compose
-    </td>
-    <td align="center" width="96">
-        <img src="https://img.shields.io/badge/AOSP-000000?style=for-the-badge&logo=android&logoColor=white"/>
-      <br>AOSP
-    </td>
-    <td align="center" width="96">
-        <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/>
-      <br>MVVM
-    </td>
-    <td align="center" width="96">
-        <img src="https://img.shields.io/badge/MVI-009688?style=for-the-badge"/>
-      <br>MVI
-    </td>
-    <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Clean%20Architecture-6A1B9A?style=for-the-badge"/>
-      <br>Clean Arch
-    </td>
-    <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge"/>
-      <br>Hilt
-    </td>
-    <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Coroutines-009688?style=for-the-badge"/>
-      <br>Coroutines
-    </td>
-    <td align="center" width="96">
-        <img src="https://img.shields.io/badge/Flow-00BCD4?style=for-the-badge"/>
-      <br>Flow
-    </td>
-  </tr>
+### 💻 Languages & Tools
 
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/>
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-        <img src="https://img.shields.io/badge/REST%20API-FF5722?style=for-the-badge"/>
-      <br>REST API
-    </td>
-    <td align="center" width="96">
-        <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
-      <br>JSON
-    </td>
-  </tr>
-</table>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=kotlin,java" />
+<img src="https://skillicons.dev/icons?i=androidstudio,git,github,gitlab,bitbucket,figma,linux" />
+</p>
+
+### 🧩 Architectures
+
+<p align="center">
+<img src="https://img.shields.io/badge/MVI-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean%20Architecture-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVP-795548?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVC-607D8B?style=for-the-badge"/>
+</p>
+
+### ⚙️ Android & Frameworks
+
+<p align="center">
+<img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack-000000?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dagger-FF7043?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Koin-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flow-00BCD4?style=for-the-badge"/>
+</p>
+
+### 🧱 Jetpack Components
+
+<p align="center">
+<img src="https://img.shields.io/badge/LiveData-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ViewModel-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Navigation-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Room-795548?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WorkManager-607D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Paging-8BC34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DataStore-673AB7?style=for-the-badge"/>
+</p>
+
+### 🎨 UI / UX
+
+<p align="center">
+<img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XML-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MotionLayout-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ConstraintLayout-009688?style=for-the-badge"/>
+</p>
+
+### 🧪 Testing
+
+<p align="center">
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mockito-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MockK-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Espresso-795548?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Robolectric-607D8B?style=for-the-badge"/>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="center">
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge"/>
+</p>
+
+### 🌐 Networking & Backend
+
+<p align="center">
+<img src="https://img.shields.io/badge/REST%20API-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MQTT-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### ⚡ Other Expertise
+
+<p align="center">
+<img src="https://img.shields.io/badge/Bluetooth-3F51B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location%20Services-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Payment%20Gateway-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Analytics-FF9800?style=for-the-badge"/>
+</p>
+
+### 🔄 Dev Practices & CI/CD
+
+<p align="center">
+<img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kanban-607D8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TDD-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BDD-795548?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge"/>
+</p>
+
+### 🚀 Code Quality & Optimization
+
+<p align="center">
+<img src="https://img.shields.io/badge/ProGuard-FF5722?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/R8-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Detekt-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ktlint-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeakCanary-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Android%20Profiler-3DDC84?style=for-the-badge"/>
+</p>
+
 
 
 ## GitHub Profile Trophy 🏆
