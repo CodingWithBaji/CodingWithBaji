@@ -11,7 +11,6 @@
 </p>
 
 <div align="center">
-
 <a href="https://www.instagram.com/imbaji17/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
@@ -24,15 +23,18 @@
 <a href="https://www.youtube.com/@CodingWithBaji">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
-
 </div>
 
-
-</div>
-<p></p>
+</br>
 <p align="justify">
-Welcome to my GitHub Page. I am Bajirao Shinde and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/imbaji17">Bajirao Shinde</a> that shares everything I learn about programming.
+I'm <b>Bajirao Shinde</b>, a Lead Android Engineer focused on building <b>system-level Android experiences</b> and scalable mobile architectures.
+
+With 10+ years of experience, I specialize in <b>Kotlin, Jetpack Compose, MVI, and AOSP internals</b>, and enjoy pushing Android beyond traditional app development.
+
+I also share practical insights and development learnings with the community through Instagram and YouTube.
+
 </p>
+
 
 ## 🛠️ Technical Stack
 
